@@ -1,0 +1,14 @@
+{
+  "name": "robot-track",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/data-tables": "^13.1.1",
+    "axios": "^0.27.1",
+    "telegraf": "^4.7.0"
+  }
+}
